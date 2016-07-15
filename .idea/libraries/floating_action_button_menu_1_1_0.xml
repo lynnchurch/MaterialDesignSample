@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="floating-action-button-menu-1.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/me.lynnchurch/floating-action-button-menu/1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/me.lynnchurch/floating-action-button-menu/1.1.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.lynnchurch/floating-action-button-menu/1.1.0/e7f0b415d05e4c40184a52fe82457cd342d66a23/floating-action-button-menu-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
